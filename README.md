@@ -9,7 +9,6 @@ src内の構造
     - SamplePage.module.css（ページ単位のスタイル）
     - _components（ページ固有のコンポーネント）
       - SampleSection.tsx
-      - SampleSection.module.css 
    
 - features
   - sample
